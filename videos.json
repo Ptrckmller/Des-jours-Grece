@@ -34,7 +34,7 @@
     "url": "https://player.vimeo.com/video/293706111",
     "categories": ["avion", "voyage", "boulevard Périphérique"]
       },
-    {
+  {
     "titre": "Des jours #593 - Nuée",
     "url": "https://player.vimeo.com/video/349836927",
     "categories": ["avion", "voyage","2019"]
@@ -43,78 +43,79 @@
     "titre": "Des jours #594 - Le vent du nord",
     "url": "https://player.vimeo.com/video/350050847",
     "categories": ["ralenti", "chora","2019"]
-  },
+      },
   {
     "titre": "Des jours #595 - Chora",
     "url": "https://player.vimeo.com/video/350261235",
     "categories": ["ombre et lumière","chat", "chora","2019"]
-  },
+      },
   {
     "titre": "Des jours #596 - Lézarder",
     "url": "https://player.vimeo.com/video/350450525",
     "categories": ["ombre et lumière","chat", "2019"]
-  },
+      },
   {
     "titre": "Des jours #597 - Cendres",
     "url": "https://player.vimeo.com/video/350499031",
     "categories": ["Blaise Cendrars","plage", "2019"]
-  },
+      },
   {
     "titre": "Des jours #598 - Instantanés de Delos",
     "url": "https://player.vimeo.com/video/350678861",
     "categories": ["Délos","voyage", "2019"]
-  },
+      },
   {
     "titre": "Des jours #599 - Formes",
     "url": "https://player.vimeo.com/video/350899575",
     "categories": ["chat","plage","Ano Mera", "2019"]
-  },
+      },
   {
     "titre": "Des jours #600 - Alentir",
     "url": "https://player.vimeo.com/video/351127419",
     "categories": ["ralenti","plage", "2019"]
-  },
+      },
   {
     "titre": "Des jours #601 - Le sommeil d'Hélios",
     "url": "https://player.vimeo.com/video/351230341",
     "categories": ["fin du jour", "2019"]
-  },
+     },
   {
     "titre": "Des jours #602 - Les ondes",
     "url": "https://player.vimeo.com/video/351464596",
     "categories": ["ralenti","kalo livadi", "ombre et lumière", "2019"]
-  },
+     },
   {
     "titre": "Des jours #603 - Songe",
     "url": "https://player.vimeo.com/video/351755757",
     "categories": ["ralenti","chora", "fin du jour", "2019"]
-  },
+     },
   {
     "titre": "Des jours #604 - Dans la chaleur de l'été",
     "url": "https://player.vimeo.com/video/351861172",
     "categories": ["ombre et lumière", "chora", "2019"]
-  },
+     },
   {
     "titre": "Des jours #605 - Où la terre est rouge",
     "url": "https://player.vimeo.com/video/351464596",
     "categories": ["fin du jour","plage", "Nord", "2019"]
-  },
+     },
   {
     "titre": "Des jours #606 - Flotter",
     "url": "https://player.vimeo.com/video/352208812",
     "categories": ["vent","chora", "2019"]
-  },
+     },
   {
     "titre": "Des jours #607 - Dernière marche sous l'étésien",
     "url": "https://player.vimeo.com/video/352498902",
     "categories": ["vent","kalo livadi", "2019"]
-  },
+     },
   {
     "titre": "Des jours #608 - Hubloter",
     "url": "https://player.vimeo.com/video/352534814",
     "categories": ["voyage","avion", "fin du jour", "orage", "2019"]
   }
 ]
+
 
 
 
